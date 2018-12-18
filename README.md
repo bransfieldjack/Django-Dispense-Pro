@@ -1,5 +1,7 @@
 # Your Project's Name
 
+![CI/CD Travis](https://travis-ci.org/bransfieldjack/Django-Dispense-Pro.svg?branch=master)
+
 One or two paragraphs providing an overview of your project.
 
 Essentially, this part is your sales pitch.
